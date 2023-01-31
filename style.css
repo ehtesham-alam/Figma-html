@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    width: 100%;
+    height: 100px;
+    background-color: #f1f0f6;
+}
+
+.network{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.time{
+   MARGIN-TOP: 2PX;
+   MARGIN-LEFT: 20PX;
+}
+.con{
+    display: flex;
+    justify-content: space-between; 
+}
+.nav{
+    
+   padding-left: 16px;
+   margin-top: -6px;
+}
+con.h3{
+   margin-top: 2px;
+   font-size: 20px;
+   letter-spacing: 0.5px;
+}
+.hidd{
+    color: #f1f0f6;
+}
+.tap{
+   width: 100%;
+   height: 70px;
+   display: flex;
+   justify-content: center;
+   padding-top: 14px;
+}
+.search{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 98%;
+  height: 60px;
+  background-color: #f1f0f8;
+  border-radius: 50px;
+   
+}
+.any{
+   padding-left: 20px;
+   font-size: 18px;
+   font-weight: 300;
+   letter-spacing: 0.5px;
+   color: #a4a1bd;
+
+}
+.searchimg{
+   font-size: 30px;
+   width: 31px;
+   padding-right: 15px;
+}
+
+.inf{
+   width: auto;
+   background-color: white;
+   padding-left: 25px;
+   padding-right: 27px;
+
+}
+.inf1{
+   width: 98%;
+   height: 200px;
+   display: inline;
+    
+   background-color: aqua;
+   
+       /* padding-left: 55px;
+       padding-right: 20px; */
+}
+.perspic{
+  width: 90px;
+  height: 90px;
+  border-radius: 20px;
+  float: left;
+  
+  
+} 
+.sss{
+   float: right;
+   padding-top: 32px;
+   letter-spacing: 24px;
+}
+.message{
+   width: 15px;
+   margin-left: 10px;
+    
+    
+   
+} 
+.det{
+   padding-top: 2px;
+}
+.detail1{
+   font-size: 17px;
+   margin-top: 10px;
+   padding-left: 105px;
+   color: #51505c
+   ;
+}
+.detail2{
+   font-size: 13px;
+   padding-left: 105px;
+   color:  #9f9dbc;
+}
+.detail3{
+font-size: 13px;
+padding-left: 105px;
+padding-top: 16px;
+color: #314d68;
+}
+
+.end{
+   width: 100%;
+   height: 100px;
+   background-color: wheat;
+   
+}
+.imgpass{
+   width: 80px;
+   height: 80px;
+   background-size: cover;
+}
+.container
+{
+   display: flex;
+   justify-content:space-around;
+   
+ 
+}
+.container{
+   width: 100%;
+   height: 100px;
+   
+    
+}
+
+.samename2{
+   font-weight: 500;
+   font-size: 13px;
+}
+.samename{
+   width: 40px;
+}
+.samename11{
+    width: 40px;
+}
+.samename33{
+   width: 40px;
+}
+.samename22{
+   width: 40px;
+}
+.imgpass{
+   margin-top: -34px
+}
